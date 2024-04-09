@@ -25,10 +25,20 @@ h2 {
     margin-top: 30px;
 }
 
-p {
-    width: 50% ;
-    margin: auto;
+@media screen and (orientation: portrait) {
+    p {
+        width: 80% ;
+        margin: auto;
+    }
 }
+
+@media screen and (orientation: landscape) {
+    p {
+        width: 50% ;
+        margin: auto;
+    }
+}
+
 
 p a, p a:link, p a:visited, p a:active {
     text-decoration: none;
