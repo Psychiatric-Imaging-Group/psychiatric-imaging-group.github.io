@@ -1,0 +1,32 @@
+---
+title: "About us"
+---
+
+## Our work
+
+> Our research focuses on understanding the causes of mental illnesses and improving their treatment
+
+Mental illnesses are a major cause of ill health and premature death. They account for four of the six leading causes of adult disability in the world and one in every ten hospital beds in the UK is allocated for the treatment of psychotic disorders such as schizophrenia. 
+
+### Research aims and approaches
+
+- Understanding the brain changes that lead to the development of psychotic disorders, using multi-modal imaging with PET and MRI
+- Examining the effects of drugs and risk factors on the brain, and the influence of common genetic polymorphisms on brain function
+- Determining why some patients respond to treatments and others don’t and predicting response
+- Developing and testing novel approaches to treating mental illnesses
+- Developing animal models for future drug development and using stem cells derived from patients to investigate the mechanisms underlying the disorders
+
+### Types of research projects 
+Our research includes both pre-clinical and human studies. 
+
+Preclinical work involves the development of novel radiotracers and pharmacological probes to take into human studies and the development of preclinical models of the neurobiology of major mental illnesses. Human studies conducted by the group focus on experimental medicine studies in patient cohorts and healthy volunteers. Approaches include in vivo imaging with PET, fMRI, and MRS coupled with pharmacological or behavioural challenges.
+
+## Research topics 
+
+### Synaptic connectivity 
+
+## Media links
+- Radical new approach to schizophrenia treatment begins trial, [The Guardian](https://www.theguardian.com/society/2017/nov/03/radical-new-approach-to-schizophrenia-treatment-begins-trial)
+- Psychosis and medication, AITM awards, Challenging antisocial behaviour, [BBC podcast](https://www.bbc.co.uk/programmes/b0b48gz9)
+- Smoking pot can make you lazy, [Men's Health](https://www.menshealth.com/health/a19529352/new-study-smoking-pot-can-make-you-lazy/)
+- Schizophrenia Study Could Improve Treatment, [sky news](https://news.sky.com/story/schizophrenia-study-could-improve-treatment-10342934)

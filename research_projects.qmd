@@ -1,0 +1,31 @@
+---
+title: "Research projects"
+---
+
+Recent projects 
+
+## Synaptic connectivity
+
+> **A study of synaptic connectivity in healthy volunteers and patients diagnosed with mental disorders**
+
+Synaptic pathology has been suggested in the aetiology of schizophrenia and a number of incidental findings support the role of abnormalities in synaptic pathology in behavioural and cognitive impairments. Pre-synaptic markers help relate changes in synaptic density and a number of alterations in presynaptic markers such as presynaptic synaptic protein 2A:
+SV2A
+by allowing us to indirectly measure synaptic density *in vivo* using [11C]UCB-J - a selective radiotracer that binds to SV2A.
+
+<button type="button" class="btn btn-light btn-sm"><a href="https://bepartofresearch.nihr.ac.uk/trial-details/trial-detail?trialId=50590&location=London,%20UK&distance=" terget="_blank">
+Be part of research</a></button>
+<button type="button" class="btn btn-light btn-sm"><a href="https://sense.odp.nihr.ac.uk/public/single/?appid=27f93da6-3ea4-404a-afce-24cfe1c613c8&obj=601a080e-5f30-4813-9ab1-14213b816f85&theme=nihr%20theme&opt=nointeraction,noselections&select=$::StudyID,61077&identity=preview" target="_blank">NIHR</a></button>
+<button type="button" class="btn btn-light btn-sm"><a href="https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/synaptic-connectivity/" target="_blank">HRA</a></button>
+
+## Synaptic and neural function
+> **A study of synaptic markers and their relationship to neural function in healthy volunteers and patients diagnosed with mental disorders**
+
+<button type="button" class="btn btn-light btn-sm"><a href="https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/synaptic-and-neural-function/" target="_blank">HRA</a></button>
+
+## RESTORE
+
+Description
+
+## CIMBI
+
+Description

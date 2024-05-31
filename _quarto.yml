@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Psychiatric imaging group"
+  navbar:
+    search: false
+    logo: _site/icon.png
+    style: "docked"
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - people.qmd
+      - research_projects.qmd
+      
+    tools:
+      - icon: github
+        href: https://github.com/Psychiatric-Imaging-Group
+  favicon: _site/icon.png
+  back-to-top-navigation: true
+  page-footer: 
+    border: true
+    left: "Page created 31 May 2024, Julia Marcinkowska"
+    right:
+      - icon: github
+        href: https://github.com/Psychiatric-Imaging-Group
+
+format:
+  html:
+    scss: styles.css
+    theme: 
+      - styles.css
+      - cosmo
+    toc: true
+
+
+
