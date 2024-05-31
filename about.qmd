@@ -21,10 +21,6 @@ Our research includes both pre-clinical and human studies.
 
 Preclinical work involves the development of novel radiotracers and pharmacological probes to take into human studies and the development of preclinical models of the neurobiology of major mental illnesses. Human studies conducted by the group focus on experimental medicine studies in patient cohorts and healthy volunteers. Approaches include in vivo imaging with PET, fMRI, and MRS coupled with pharmacological or behavioural challenges.
 
-## Research topics 
-
-### Synaptic connectivity 
-
 ## Media links
 - Radical new approach to schizophrenia treatment begins trial, [The Guardian](https://www.theguardian.com/society/2017/nov/03/radical-new-approach-to-schizophrenia-treatment-begins-trial)
 - Psychosis and medication, AITM awards, Challenging antisocial behaviour, [BBC podcast](https://www.bbc.co.uk/programmes/b0b48gz9)
